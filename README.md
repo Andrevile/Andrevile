@@ -1,8 +1,5 @@
-### Hi there 👋
+### Frontend Developer👋
 
-- 🌱 I’m currently learning Front-End 
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrevile&show_icons=true)  
+- Naver 2025.05 ~ ing
+- Kakaostyle 2022.06 ~ 2025.04
 
